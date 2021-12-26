@@ -1,0 +1,38 @@
+{
+  "name": "EymaBot",
+  "version": "0.0.1",
+  "description": "None",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+   "mongoose": "*",
+   "eris-sharder": "*",
+   "fs": "*",
+   "express": "*",
+   "ws": "*",
+   "connect-mongo": "*",
+   "express-session": "*",
+   "http": "*",
+    "bufferutil": "*",
+    "zlib-sync": "*",
+    "@discordjs/opus": "*",
+    "sodium-native": "*",
+    "ytdl-core": "*",
+    "yt-search": "*",
+    "fs": "*",
+    "ffmpeg": "*",
+    "node-pre-gyp": "*",
+    "ffmpeg-static": "*",
+    "soundcloud-downloader": "*",
+    "number-to-words": "*",
+    "request": "*",
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+
+  "license": "MIT"
+}
